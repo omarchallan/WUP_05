@@ -39,6 +39,11 @@ drugies <- filter(triUmp, DrugUser == "yes")
 
 
 
+```{r}
+barchartGC(~infected + treatment,data=drugies)
+barchartGC(~infected + treatment,data=drugies, type="percent")
+
+```
 
 
 ### Numerical Descriptive Results
