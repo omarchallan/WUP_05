@@ -46,6 +46,9 @@ barchartGC(~infected + treatment,data=drugies, type="percent")
 ```
 
 
+Almost 80% of the people who reported aids have taken a placebo not the genuine drug. That shows that the drug is effective and is preventing patients from getting aids.   
+
+
 ### Numerical Descriptive Results
 
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
